@@ -1,3 +1,5 @@
+"""github: https://zetcode.com/tkinter/snake/"""
+
 import random
 import sys
 import tkinter as tk
